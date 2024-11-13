@@ -40,6 +40,7 @@ I’m also an Arduino aficionado and IEEE volunteer, contributing my skills to t
 ---
 
 ## 🎨 GitHub Stats:
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud3wwd&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
