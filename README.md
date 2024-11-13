@@ -32,5 +32,5 @@ I’m also an Arduino aficionado and IEEE volunteer, contributing my skills to t
 
 ## 📫 How to Reach Me:
 - **LinkedIn**: [Mahmoud E AbuAwd](https://www.linkedin.com/in/mahmoud-abuawd-247290225/)
-- **Email**: [Mahmoodabuawad08@gmail.com](Mahmoodabuawad08@gmail.com)
-- **Instagram**: [S9mod]((https://www.instagram.com/s9mod/))
+- **Email**: [Mahmoodabuawad08@gmail.com](mailto:Mahmoodabuawad08@gmail.com)
+- **Instagram**: [S9mod](https://www.instagram.com/s9mod/)
