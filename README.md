@@ -46,10 +46,6 @@ I’m also an Arduino aficionado and IEEE volunteer, contributing my skills to t
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud3wwd&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud3wwd&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
