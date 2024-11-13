@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student 
 I'm a passionate AI Engineer and Data Science specialist, shaping innovative solutions in the digital world. My expertise lies in building robust machine learning and deep learning models for computer vision and natural language processing, focusing on applications in medical imaging and beyond. I tackle every project from start to finish: from meticulous data preprocessing and model development to deployment and real-world impact. My journey has led me to create intelligent solutions, whether by leveraging deep learning for image generation, deploying custom Telegram bots, or contributing to groundbreaking research in AI's role in justice.
 
 I’m also an Arduino aficionado and IEEE volunteer, contributing my skills to the engineering community. Follow along as I build, deploy, and share insights on AI, robotics, and embedded systems.
+
 ---
 
 ## 🌟 About Me:
@@ -36,17 +37,18 @@ I’m also an Arduino aficionado and IEEE volunteer, contributing my skills to t
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 ---
+
 ## 🎨 GitHub Stats:
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud3wwd&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozaloom&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud3wwd&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud3wwd&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
