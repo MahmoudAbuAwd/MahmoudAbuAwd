@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student at the Faculty of Artificial Intelligence, Al-Balqa Applied University in Jordan. My mission is to leverage modern technology to create a positive impact in the world. Let's innovate together!
 
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/n53f5g-plM0AAAAi/emo.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif">
 
 I'm a passionate AI Engineer and Data Science specialist, shaping innovative solutions in the digital world. My expertise lies in building robust machine learning and deep learning models for computer vision and natural language processing, focusing on applications in medical imaging and beyond. I tackle every project from start to finish: from meticulous data preprocessing and model development to deployment and real-world impact. My journey has led me to create intelligent solutions, whether by leveraging deep learning for image generation, deploying custom Telegram bots, or contributing to groundbreaking research in AI's role in justice.
 
@@ -45,13 +45,9 @@ I’m also an Arduino aficionado and IEEE volunteer, contributing my skills to t
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud3wwd&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud3wwd&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
-## 📫 How to Reach Me:
+## My Links:
 - **LinkedIn**: [Mahmoud E AbuAwd](https://www.linkedin.com/in/mahmoud-abuawd-247290225/)
 - **Email**: [Mahmoodabuawad08@gmail.com](mailto:Mahmoodabuawad08@gmail.com)
 - **Instagram**: [S9mod](https://www.instagram.com/s9mod/)
