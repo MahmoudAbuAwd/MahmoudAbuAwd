@@ -5,7 +5,8 @@
 Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student at the Faculty of Artificial Intelligence, Al-Balqa Applied University in Jordan. My mission is to leverage modern technology to create a positive impact in the world. Let's innovate together!
 
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif">
+<img align="right" alt="Coding" width="300" src="![image_processing20210729-32645-tn0q8p](https://github.com/user-attachments/assets/43bcfd8c-2065-483d-baec-77f7ab86ccf3)
+">
 
 I'm a passionate AI Engineer and Data Science specialist, shaping innovative solutions in the digital world. My expertise lies in building robust machine learning and deep learning models for computer vision and natural language processing, focusing on applications in medical imaging and beyond. I tackle every project from start to finish: from meticulous data preprocessing and model development to deployment and real-world impact. My journey has led me to create intelligent solutions, whether by leveraging deep learning for image generation, deploying custom Telegram bots, or contributing to groundbreaking research in AI's role in justice.
 
