@@ -1,4 +1,4 @@
-# ⚡ Mahmoud Abu Awd – AI Engineer | Vision Architect | Dream Developer ⚡
+# ⚡ Mahmoud Abu Awd – AI Engineer ⚡
 
 <div align="center">
   
@@ -40,7 +40,7 @@
 
 > ### 🧠 AI Engineer based in 🇯🇴 Jordan, specializing in designing human-aligned intelligence systems that learn, adapt, and spark innovation.
 > ### 🎯 Passionate about developing solutions that bridge imagination and implementation—blurring the boundary between vision and reality.
-> ### 🚀 Co-Founder of **MedGAN**, reimagining clinical AI with powerful multimodal generative models.
+> ### 🚀 Founder of **MedGAN**, An AI startup for developing ai solutions and Agentic AI.
 
 ---
 
@@ -58,7 +58,7 @@ machine_learning_stack = {
     "🎯 Classical ML": ["Scikit-learn", "XGBoost", "CatBoost", "LightGBM"],
     "📊 Statistical Analysis": ["Statsmodels", "SciPy", "NumPy"],
     "🔍 Feature Engineering": ["Optuna", "TPOT", "Featuretools"],
-    "⚖️ Model Selection": ["Hyperopt", "Ray Tune", "Bayesian Optimization"]
+    "⚖️ Model Selection": ["Hyperopt", "Grid search", "Bayesian Optimization"]
 }
 ```
 
@@ -69,7 +69,7 @@ machine_learning_stack = {
 
 ```python
 deep_learning_arsenal = {
-    "🔥 Frameworks": ["PyTorch", "TensorFlow", "JAX", "Lightning"],
+    "🔥 Frameworks": ["PyTorch", "TensorFlow"],
     "🏗️ Architectures": ["Transformers", "GANs", "Diffusion Models", "Autoencoders"],
     "🎨 Generative AI": ["Stable Diffusion", "CLIP", "DALL-E", "Midjourney APIs"],
     "⚡ Optimization": ["Mixed Precision", "Gradient Accumulation", "Model Parallelism"]
@@ -86,7 +86,6 @@ nlp_powerhouse = {
     "🤖 Language Models": ["BERT", "GPT-4", "Claude", "LLaMA", "Gemini"],
     "🔗 Frameworks": ["LangChain", "LlamaIndex", "Haystack", "Semantic Kernel"],
     "🧠 Advanced Techniques": ["RAG Pipelines", "Fine-tuning", "PEFT", "LoRA"],
-    "🌍 Multilingual": ["Arabic NLP", "Cross-lingual Models", "Translation APIs"]
 }
 ```
 
@@ -111,24 +110,10 @@ computer_vision_suite = {
 
 ```python
 mlops_ecosystem = {
-    "🐳 Containerization": ["Docker", "Kubernetes", "Docker Compose"],
+    "🐳 Containerization": ["Docker"]
     "🚀 Deployment": ["FastAPI", "Streamlit", "Flask", "Gradio"],
-    "📊 Monitoring": ["MLflow", "Weights & Biases", "Neptune", "TensorBoard"],
-    "☁️ Cloud Platforms": ["AWS SageMaker", "Azure ML", "GCP Vertex AI"]
-}
-```
-
-</details>
-
-<details>
-<summary><h3>📊 Data Engineering Pipeline</h3></summary>
-
-```python
-data_engineering_stack = {
-    "🔧 Processing": ["Pandas", "Polars", "Dask", "Apache Spark"],
-    "🗄️ Databases": ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
-    "🌊 Streaming": ["Apache Kafka", "Apache Airflow", "Prefect"],
-    "📈 Visualization": ["Plotly", "Seaborn", "Matplotlib", "Altair"]
+    "📊 Monitoring": ["MLflow", "Weights & Biases"],
+    "☁️ Cloud Platforms": ["AWS", "Azure ML"]
 }
 ```
 
@@ -144,11 +129,12 @@ data_engineering_stack = {
 
 | 🎖️ **Achievement** | 🏢 **Issuing Authority** | 📅 **Year** | 🎯 **Status** |
 |:--------------------|:-------------------------|:-------------|:---------------|
-| 🤖 **TensorFlow Developer Certificate** | DeepLearning.AI | 2023 | ✅ **Certified** |
-| 💬 **Generative AI with LLMs** | DeepLearning.AI & OpenAI | 2024 | ✅ **Certified** |
-| 🧠 **Machine Learning Specialization** | Stanford (Andrew Ng) | 2022 | ✅ **Certified** |
-| 🔍 **Practical Computer Vision** | University of Colorado | 2023 | ✅ **Certified** |
-| 🛰️ **Prompt Engineering Mastery** | LearnPrompting & Cohere | 2024 | ✅ **Certified** |
+| 📚 **AWS Certified AI Practitioner** | Amazon Web Services | 2025 | ✅ **Certified** |
+| 🤖 **TensorFlow Developer Certificate** | DeepLearning.AI | 2024 | ✅ **Certified** |
+| 💬 **Deep Learning Specialization ** | DeepLearning.AI & OpenAI | 2024 | ✅ **Certified** |
+| 🧠 **Machine Learning & DataScience ** | The Hope | 2024 | ✅ **Certified** |
+| 🔍 **PowerBI For Data Analysis** | Microsoft | 2024 | ✅ **Certified** |
+| 🛰️ **AWS AI Full Stack ** | Manara | 2024 | ✅ **Certified** |
 | 📚 **AWS Certified ML – Specialty** | Amazon Web Services | 2025 | 🔄 **In Progress** |
 
 ---
@@ -168,61 +154,6 @@ data_engineering_stack = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudabuawd&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="400"/>
 
 </div>
-
----
-
-<div align="center">
-
-## 🚀 **Current Missions** 🚀
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧪 **MedGAN Project**
-> Building a generative model suite for radiology & diagnostics
-> 
-> **Stack**: PyTorch, Diffusion Models, CLIP
-> 
-> **Impact**: Revolutionizing medical imaging AI
-
-</td>
-<td width="50%">
-
-### 🔁 **RAG Pipeline Research**
-> Researching RAG pipelines for patient query systems
-> 
-> **Stack**: LangChain, Vector DBs, LLMs
-> 
-> **Goal**: Intelligent medical information retrieval
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌍 **Arabic NLP Models**
-> Open-sourcing clinical embedding models for Arabic NLP
-> 
-> **Stack**: Transformers, HuggingFace, BERT
-> 
-> **Mission**: Democratizing Arabic AI
-
-</td>
-<td width="50%">
-
-### ✍️ **AI in Medicine Blog**
-> Writing series: *"From GPT to MD: AI in Medicine"*
-> 
-> **Platform**: Medium, Dev.to, Personal Blog
-> 
-> **Audience**: AI researchers & medical professionals
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -269,8 +200,8 @@ data_engineering_stack = {
 ```
       🧠 AI/ML (95%)     ████████████████████ 
       🐍 Python (90%)    ██████████████████   
-      🔥 PyTorch (85%)   █████████████████    
-      ☁️ Cloud (80%)     ████████████████     
+      🔥 Tensorflowh (85%)   █████████████████    
+      ☁️ Cloud (90%)     ████████████████     
       🗄️ Data Eng (75%) ███████████████      
       🌐 Web Dev (70%)   ██████████████       
       📊 MLOps (85%)     █████████████████    
