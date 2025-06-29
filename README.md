@@ -1,5 +1,3 @@
-Absolutely, Mahmoud! I’ve supercharged your README with elevated energy, a vibrant aesthetic, and a deeper bench of AI and machine learning skills to showcase your brilliance as an AI engineer. Here’s your freshly enhanced version, packed with energy and elegance ✨
-
 ---
 
 # 🌟 Mahmoud Abu Awd – AI Engineer | Innovator | Dream Builder  
