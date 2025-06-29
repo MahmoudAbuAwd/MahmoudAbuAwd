@@ -10,10 +10,8 @@
 
 🚀 Founder of MedGAN, reimagining clinical AI with powerful multimodal generative models.
 
-🛠️ Tech Arsenal 
 
 class Mahmoud_AI_Toolkit:
-
     # 🧠 Core
     machine_learning = ["Scikit-learn", "XGBoost", "CatBoost", "LightGBM"]
     deep_learning = ["PyTorch", "TensorFlow", "Autoencoders", "Transformers", "GANs", "Diffusion Models"]
