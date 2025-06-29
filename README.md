@@ -1,5 +1,3 @@
----
-
 # 🌟 Mahmoud Abu Awd – AI Engineer | Innovator | Dream Builder  
 > "Designing minds that think, systems that learn, and models that imagine the future."
 
