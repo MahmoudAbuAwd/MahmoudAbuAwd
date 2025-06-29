@@ -1,74 +1,53 @@
-# 🌟 Mahmoud Abu Awd – AI Engineer | Innovator | Dream Builder  
-> "Designing minds that think, systems that learn, and models that imagine the future."
+# ✨ Mahmoud Abu Awd – AI Engineer | Innovator | Vision Crafter
 
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/mahmoudabuawd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="25"></a>
-<a href="mailto:mahmoudabuawd@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" height="25"></a>
-<a href="https://mahmoudabuawd.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white" height="25"></a>
+> “Teaching code to dream and machines to imagine.”
 
-</div>
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" width="200" style="border-radius: 50%" alt="Mahmoud Abu Awd">
+</p>
 
-AI engineer with a passion for solving real-world problems using machine intelligence. I craft neural architectures that don’t just compute—they _create_.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoudabuawd">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:mahmoudabuawd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://mahmoudabuawd.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
 
 ---
+
+## ⚙️ About Me
+
+I’m Mahmoud, an AI engineer based in Jordan specializing in creating powerful, human-centric AI systems. I’m on a mission to shape the future through:
+
+- Deep Learning & Generative AI 🧠  
+- Multimodal Systems (Vision + Language) 🎯  
+- Autonomous Agents & AI Deployment 🚀  
+
+Currently co-building **MedGAN**, a startup pushing the limits of medical AI.
+
+---
+
+## 🔥 Animated Stats
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7B801&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer+%F0%9F%92%BB;Deep+Learning+Ninja+%F0%9F%A7%96;Vision+%2B+Language+AI+Researcher+%F0%9F%8C%9F;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧠 AI Arsenal
 
 ```python
-class MahmoudSkills:
-    machine_learning = ["Scikit-learn", "XGBoost", "LightGBM", "CatBoost"]
-    deep_learning = ["PyTorch", "TensorFlow", "Transformers", "GANs", "Autoencoders"]
-    nlp = ["LLMs", "spaCy", "RAG", "BERT", "LangChain", "Vector DBs"]
-    computer_vision = ["OpenCV", "YOLO", "Image Segmentation", "Face Recognition"]
-    mlops = ["Docker", "CI/CD", "FastAPI", "Flask", "Streamlit", "MLflow"]
-    data_stack = ["Pandas", "NumPy", "SQL", "Matplotlib", "Seaborn", "Plotly"]
-    tools = ["Git", "Colab", "Jupyter", "Linux", "Hugging Face", "Azure", "AWS"]
-    robotics = ["Arduino", "ROS", "Sensors", "Autonomous Systems"]
-```
-
----
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" height="25">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Transformers-FAD02E?logo=huggingface&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/HuggingFace-FFCA28?logo=huggingface&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" height="25">
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuAwd&show_icons=true&theme=tokyonight&hide_border=true" width="480" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuAwd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=480" />
-</div>
-
----
-
-## 🏆 Certifications
-
-- Deep Learning Specialization (Andrew Ng)
-- Generative AI with LLMs by DeepLearning.ai
-- NLP Specialization with Transformers
-- MLOps: Model Deployment & Monitoring
-- IoT Embedded Systems
-- Full-Stack AI Development with LangChain & Vector Stores
-
----
-
-Let me know if you want me to:
-- Plug this right into your portfolio
-- Add animated banners or language cards
-- Create a “Projects” section with rich media and GitHub buttons
-
-Or I could turn this into a single-page HTML about you with animations and parallax. Let’s turn this into a masterpiece. 🌌
+class MahmoudAIStack:
+    machine_learning = ["Scikit-learn", "XGBoost", "CatBoost", "LightGBM"]
+    deep_learning = ["PyTorch", "TensorFlow", "Autoencoders", "Transformers"]
+    nlp = ["BERT", "LLMs", "spaCy", "LangChain", "RAG", "Vector DBs"]
+    vision = ["OpenCV", "YOLO", "Image Segmentation", "ViT", "CLIP"]
+    mlops = ["Docker", "FastAPI", "Flask", "Streamlit", "MLflow"]
+    data_tools = ["Pandas", "NumPy", "SQL", "Matplotlib", "Plotly"]
+    cloud = ["AWS", "Azure"]
