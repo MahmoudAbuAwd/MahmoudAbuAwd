@@ -3,7 +3,7 @@
 > “Teaching code to dream and machines to imagine.”
 
 <p align="center">
-  <img src="(https://mahmoudabuawd.github.io/Portfolio/imggg.png)" width="200" style="border-radius: 50%" alt="Mahmoud Abu Awd">
+  <img src="[https://mahmoudabuawd.github.io/Portfolio/imggg.png]" width="200" style="border-radius: 50%" alt="Mahmoud Abu Awd">
 </p>
 
 <p align="center">
