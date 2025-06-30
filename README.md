@@ -131,10 +131,10 @@ mlops_ecosystem = {
 |:--------------------|:-------------------------|:-------------|:---------------|
 | 📚 **AWS Certified AI Practitioner** | Amazon Web Services | 2025 | ✅ **Certified** |
 | 🤖 **TensorFlow Developer Certificate** | DeepLearning.AI | 2024 | ✅ **Certified** |
-| 💬 **Deep Learning Specialization ** | DeepLearning.AI & OpenAI | 2024 | ✅ **Certified** |
-| 🧠 **Machine Learning & DataScience ** | The Hope | 2024 | ✅ **Certified** |
+| 💬 **Deep Learning Specialization** | DeepLearning.AI & OpenAI | 2024 | ✅ **Certified** |
+| 🧠 **Machine Learning & DataScience** | The Hope | 2024 | ✅ **Certified** |
 | 🔍 **PowerBI For Data Analysis** | Microsoft | 2024 | ✅ **Certified** |
-| 🛰️ **AWS AI Full Stack ** | Manara | 2024 | ✅ **Certified** |
+| 🛰️ **AWS AI Full Stack** | Manara | 2024 | ✅ **Certified** |
 | 📚 **AWS Certified ML – Specialty** | Amazon Web Services | 2025 | 🔄 **In Progress** |
 
 ---
