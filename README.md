@@ -1,4 +1,4 @@
-# ⚡ Mahmoud Abu Awd – AI Engineer ⚡
+#
 
 <div align="center">
   
