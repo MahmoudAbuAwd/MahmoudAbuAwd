@@ -26,7 +26,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/mahmoud-abuawd-247290225/)
 [![Gmail](https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:mahmoodabuawad08@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4)](https://mahmoudabuawd.github.io/Portfolio)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4)](https://mahmoud3wd.netlify.app)
 
 </div>
