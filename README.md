@@ -1,172 +1,155 @@
-# Hi there, I'm Mohammed Zaloom 👋
+#
 
 <div align="center">
-  
-### 🤖 AI Technologist | 🧠 Machine Learning Engineer | 🚀 Innovation Enthusiast
 
-*"Teaching machines to think, robots to move, and neural networks to dream."*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.com)
-
-</div>
-
----
-
-## 🎯 About Me
-
-Passionate AI Technologist specializing in **Deep Learning**, **Computer Vision**, and **Natural Language Processing**. I build intelligent systems that bridge the gap between research and real-world applications, from autonomous robots to production-ready AI solutions.
-
-```python
-class MohammedZaloom:
-    def __init__(self):
-        self.role = "AI Technologist"
-        self.location = "Amman, Jordan"
-        self.education = "AI & Robotics"
-        self.currently_learning = ["MLOps", "LLM Fine-tuning", "Multi-Agent Systems"]
-        self.interests = ["Generative AI", "Computer Vision", "Robotics", "NLP"]
-    
-    def get_tech_stack(self):
-        return {
-            "deep_learning": ["PyTorch", "TensorFlow", "Keras", "Vision Transformers", "GANs"],
-            "computer_vision": ["OpenCV", "YOLO", "Object Detection", "Image Segmentation"],
-            "nlp": ["LLMs", "VLMs", "RAG", "Transformers", "HuggingFace"],
-            "robotics": ["ROS", "Arduino", "Autonomous Navigation", "Sensor Fusion"],
-            "deployment": ["Docker", "AWS", "Azure", "Flask", "FastAPI"],
-            "data_science": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn"]
-        }
-    
-    def current_focus(self):
-        return "Building production-ready AI systems with LLMs and Computer Vision"
+```
+████████╗██╗  ██╗███████╗    ███████╗██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗
+╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝
+   ██║   ███████║█████╗      █████╗  ██║   ██║   ██║   ██║   ██║██████╔╝█████╗  
+   ██║   ██╔══██║██╔══╝      ██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝  
+   ██║   ██║  ██║███████╗    ██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
----
+### 🔮 *"Mahmoud AbuAwd -- AI/ML Engineer "* 🔮
+### 🚀 *Crafting intelligent futures, one model at a time* 🚀
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🔥 Core Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 📊 Data Science & ML
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🤗 AI & LLMs
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### ☁️ Deployment & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🤖 Robotics & IoT
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Vision+Architect;Building+Tomorrow's+Intelligence;Code+%2B+Creativity+%3D+Magic;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="49%" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mozaloom&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mozaloom&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="49%" alt="Activity Graph">
+## 🌟 **Connect with the Future** 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=mozaloom&color=58A6FF&style=for-the-badge&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/mahmoud-abuawd-247290225/)
+[![Gmail](https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:mahmoodabuawad08@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4)](https://mahmoudabuawd.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4)](https://mahmoud3wd.netlify.app)
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+<div align="center">
+
+## 🎯 **Mission Statement** 🎯
+
+</div>
+
+> ### 🧠 AI Engineer based in 🇯🇴 Jordan, specializing in designing human-aligned intelligence systems that learn, adapt, and spark innovation.
+> ### 🎯 Passionate about developing solutions that bridge imagination and implementation—blurring the boundary between vision and reality.
+> ### 🚀 Founder of **MedGAN**, An AI startup for developing ai solutions and Agentic AI.
+
+---
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Provider |
-|:-----------------|:------------|
-| Deep Learning Specialization | DeepLearning.AI |
-| NLP Specialization | DeepLearning.AI |
-| TensorFlow Developer Specialization | Google |
-| MLOps Specialization | DeepLearning.AI |
-| Generative AI with LLMs | DeepLearning.AI |
-| AI Agents and MCP | Advanced AI |
-| AWS AI Practitioner | Amazon Web Services |
-| IoT Programming Specialization | UC Irvine |
+## 🏆 **Certifications & Accolades** 🏆
+
+</div>
+
+| 🎖️ **Achievement** | 🏢 **Issuing Authority** | 📅 **Year** | 🎯 **Status** |
+|:--------------------|:-------------------------|:-------------|:---------------|
+| 📚 **AWS Certified AI Practitioner** | Amazon Web Services | 2025 | ✅ **Certified** |
+| 🤖 **TensorFlow Developer Certificate** | DeepLearning.AI | 2024 | ✅ **Certified** |
+| 💬 **Deep Learning Specialization** | DeepLearning.AI & OpenAI | 2024 | ✅ **Certified** |
+| 🧠 **Machine Learning & DataScience** | The Hope | 2024 | ✅ **Certified** |
+| 🔍 **PowerBI For Data Analysis** | Microsoft | 2024 | ✅ **Certified** |
+| 🛰️ **AWS AI Full Stack** | Manara | 2024 | ✅ **Certified** |
+| 📚 **AWS Certified ML – Specialty** | Amazon Web Services | 2025 | 🔄 **In Progress** |
+
+---
+
+<div align="center">
+
+## 📊 **Real-Time Dev Pulse** 📊
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoudabuawd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudabuawd&theme=dracula)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudabuawd&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="400"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
 
-```mermaid
-mindmap
-  root((AI Projects))
-    Computer Vision
-      Object Detection
-      Image Segmentation
-      GANs
-    NLP & LLMs
-      RAG Systems
-      Fine-tuning
-      Multi-Agent Systems
-    Robotics
-      Autonomous Navigation
-      ROS Integration
-      Sensor Fusion
-    MLOps
-      Model Deployment
-      CI/CD Pipelines
-      Monitoring
+## 🌟 **What Drives Me** 🌟
+
+</div>
+
+<div align="center">
+
+### 💭 *"I don't just fine-tune models—I fine-tune possibilities."* 💭
+
+</div>
+
+> Whether it's writing inference APIs or distilling academic papers into production-ready code, I believe in shaping AI that feels intuitive, scalable, and **boldly creative**. 
+> 
+> My passion lies in the intersection of **cutting-edge research** and **real-world impact**, where algorithms meet human needs and innovation drives transformation.
+
+---
+
+<div align="center">
+
+## 🔥 **GitHub Activity** 🔥
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoudabuawd&theme=dracula&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **Skills Radar** 🎯
+
+</div>
+
+<div align="center">
+
+```
+      🧠 AI/ML (95%)     ████████████████████ 
+      🐍 Python (90%)    ██████████████████   
+      🔥 Tensorflowh (85%)   █████████████████    
+      ☁️ Cloud (90%)     ████████████████     
+      🗄️ Data Eng (75%) ███████████████      
+      🌐 Web Dev (70%)   ██████████████       
+      📊 MLOps (85%)     █████████████████    
+      💬 NLP (90%)       ██████████████████   
+      👁️ Vision (85%)    █████████████████    
+      🚀 DevOps (75%)    ███████████████      
 ```
 
----
-
-## 💡 Featured Projects
-
-> 🚧 Check out my pinned repositories below for exciting AI projects!
+</div>
 
 ---
-
-## 📫 Let's Connect!
 
 <div align="center">
 
-I'm always excited to collaborate on innovative AI projects and discuss the latest developments in machine learning and robotics!
+## 🌈 **Let's Build the Future Together** 🌈
 
-**Feel free to reach out:**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![Portfolio](https://img.shields.io/badge/-View_My_Work-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.com)
+### 🚀 Ready to turn your AI dreams into reality? Let's connect! 🚀
 
----
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abuawd-247290225/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoodabuawad08@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoudabuawd.github.io/Portfolio)
 
-*⭐️ From [mozaloom](https://github.com/mozaloom) with passion for AI*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%">
 
 </div>
