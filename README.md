@@ -71,11 +71,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoudabuawd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
+![GitHub Streak](![MahmoudAbuAwd's Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true))
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudabuawd&theme=dracula)
+![Profile Details](![MahmoudAbuAwd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuAwd&theme=tokyonight&hide_border=false))
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudabuawd&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="400"/>
+<img src="![MahmoudAbuAwd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)/>
 
 </div>
 
