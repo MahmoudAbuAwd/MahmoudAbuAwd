@@ -65,36 +65,18 @@
 
 <div align="center">
 
-## 📊 Real-Time Dev Pulse 📊
+## 📊 **Real-Time Dev Pulse** 📊
 
 </div>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoudabuawd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuAwd&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudabuawd&theme=dracula)
 
 </div>
 
----
-
-### 🔥 Alternative Layout (Side-by-Side)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuAwd&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
-
-</div>
 ---
 
 <div align="center">
@@ -156,15 +138,15 @@
 
 <div align="center">
 
-## 🌈 **Let's Build the Future Together** 🌈
+##  **Let's Build the Future Together** 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🚀 Ready to turn your AI dreams into reality? Let's connect! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abuawd-247290225/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuawd/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoodabuawad08@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoudabuawd.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoud3wd.netlify.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%">
 
