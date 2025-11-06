@@ -65,20 +65,36 @@
 
 <div align="center">
 
-## 📊 **Real-Time Dev Pulse** 📊
+## 📊 Real-Time Dev Pulse 📊
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](![MahmoudAbuAwd's Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![Profile Details](![MahmoudAbuAwd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuAwd&theme=tokyonight&hide_border=false))
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuAwd&theme=tokyonight&hide_border=false)
 
-<img src="![MahmoudAbuAwd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 
+---
+
+### 🔥 Alternative Layout (Side-by-Side)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuAwd&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuAwd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
+
+</div>
 ---
 
 <div align="center">
