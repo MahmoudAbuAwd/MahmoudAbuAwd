@@ -70,8 +70,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoudabuawd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MahmoudAbuAwd)](https://git.io/streak-stats)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudabuawd&theme=dracula)
 
 </div>
