@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MahmoudAbuAwd)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MahmoudAbuAwd&theme=vue-dark)](https://git.io/streak-stats)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudabuawd&theme=dracula)
 
 </div>
