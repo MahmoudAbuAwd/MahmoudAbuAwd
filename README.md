@@ -42,7 +42,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MahmoudAbuAwd&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudabuawd&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudabuawd&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&card_width=495&card_title=Languages%20I%20Love" alt="Top Languages">
 
 </div>
 
