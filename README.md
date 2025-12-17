@@ -39,10 +39,16 @@
 </div>
 
 <div align="center">
+## 🧠 Tech Stack
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MahmoudAbuAwd&theme=dark&hide_border=false)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-Research-red)
+![LangChain](https://img.shields.io/badge/LangChain-Agentic%20AI-purple)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-green)
+![Docker](https://img.shields.io/badge/Docker-Production-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudabuawd&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&card_width=495&card_title=Languages%20I%20Love" alt="Top Languages">
 
 </div>
 
