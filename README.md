@@ -34,21 +34,28 @@
 
 <div align="center">
 
-## 📊 **Real-Time Dev Pulse** 📊
+## **🧠 Tech Stack** 
 
 </div>
 
 <div align="center">
-## 🧠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-Research-red)
+![Python](https://img.shields.io/badge/Python-Advanced-blue?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Production--Ready-green)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Research-orange)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Medical%20AI-red)
+![NLP](https://img.shields.io/badge/NLP-LLMs%20%26%20Agents-purple)
+![LLMs](https://img.shields.io/badge/LLMs-Gemini%20%7C%20LLaMA%20%7C%20GPT-black)
 ![LangChain](https://img.shields.io/badge/LangChain-Agentic%20AI-purple)
-![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-green)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent%20Systems-darkgreen)
+![RAG](https://img.shields.io/badge/RAG-Production%20Pipelines-blue)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Expert-critical)
 ![Docker](https://img.shields.io/badge/Docker-Production-blue)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-
+![AWS](https://img.shields.io/badge/AWS-ECS%20%7C%20Lambda-orange)
+![Linux](https://img.shields.io/badge/Linux-Server%20Management-yellow)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-Business%20Ops-success)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Orchestration-critical)
+![Decision Systems](https://img.shields.io/badge/AI%20Decision--Making-Real--Time-blue)
 
 </div>
 
