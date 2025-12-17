@@ -11,8 +11,8 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
-### 🔮 *"Mahmoud AbuAwd -- AI/ML Engineer "* 🔮
-### 🚀 *Crafting intelligent futures, one model at a time* 🚀
+###  *"Mahmoud AbuAwd -- AI/ML Engineer "* 
+###  *Crafting intelligent futures, one model at a time* 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Vision+Architect;Building+Tomorrow's+Intelligence;Code+%2B+Creativity+%3D+Magic;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## 🌟 **Connect with the Future** 🌟
+## **Connect with the Future** 
 
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/abuawd)
 [![Gmail](https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:mahmoodabuawad08@gmail.com)
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-## **🧠 Tech Stack** 
+## **Github Status** 
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-## 🔥 **GitHub Activity** 🔥
+## **GitHub Activity** 
 
 </div>
 
@@ -85,7 +85,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🚀 Ready to turn your AI dreams into reality? Let's connect! 🚀
+### Ready to turn your AI dreams into reality? Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuawd/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoodabuawad08@gmail.com)
