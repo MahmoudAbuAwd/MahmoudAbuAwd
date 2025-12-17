@@ -40,26 +40,9 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Advanced-blue?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Production--Ready-green?style=flat&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Research-orange?style=flat&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Medical%20AI-red?style=flat&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-LLMs%20%26%20Agents-purple?style=flat&logo=google&logoColor=white)
-
-![LLMs](https://img.shields.io/badge/LLMs-Gemini%20%7C%20LLaMA%20%7C%20GPT-black?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-Agentic%20AI-purple?style=flat&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent%20Systems-darkgreen?style=flat&logo=graphql&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Production%20Pipelines-blue?style=flat&logo=databricks&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Expert-critical?style=flat&logo=vercel&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-Production-blue?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-ECS%20%7C%20Lambda-orange?style=flat&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Server%20Management-yellow?style=flat&logo=linux&logoColor=black)
-
-![AI Automation](https://img.shields.io/badge/AI%20Automation-Business%20Ops-success?style=flat&logo=robotframework&logoColor=white)
-![Multi--Agent](https://img.shields.io/badge/Multi--Agent-Orchestration-critical?style=flat&logo=apache-airflow&logoColor=white)
-![Decision Systems](https://img.shields.io/badge/AI%20Decision--Making-Real--Time-blue?style=flat&logo=googleanalytics&logoColor=white)
-
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoudabuawd&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="495" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudabuawd&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&card_width=495&card_title=Languages%20I%20Love" alt="Top Languages">
+</div>
 </div>
 
 ---
