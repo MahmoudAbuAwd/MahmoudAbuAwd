@@ -12,7 +12,7 @@
 ```
 
 ###  *"Mahmoud AbuAwd -- AI/ML Engineer "* 
-###  *Crafting intelligent futures, one model at a time* 
+###  *AI Engineer • Agentic Systems • Production-ready* 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Vision+Architect;Building+Tomorrow's+Intelligence;Code+%2B+Creativity+%3D+Magic;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 
