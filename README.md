@@ -98,18 +98,6 @@
 
 <div align="center">
 
-## 🏆 Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudabuawd&theme=onedark&column=7&margin-w=8&margin-h=8" alt="Trophies">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🤝 Let's Build the Future Together
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
