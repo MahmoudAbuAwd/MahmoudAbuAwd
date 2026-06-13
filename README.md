@@ -77,7 +77,9 @@
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahmoudabuawd&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudabuawd&theme=onedark&column=7&margin-w=8&margin-h=8" alt="Trophies">
+</a>
 
 </div>
 
