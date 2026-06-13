@@ -30,10 +30,6 @@
 
 ## 🧠 Tech Stack
 
-</div>
-
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -47,39 +43,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoudabuawd&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudabuawd&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6&card_title=Languages%20I%20Love" width="49%" alt="Top Languages">
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Commit Streak
-
-<img src="https://streak-stats.demolab.com?user=mahmoudabuawd&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak">
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudabuawd&theme=onedark&column=7&margin-w=8&margin-h=8" alt="Trophies">
-</a>
 
 </div>
 
@@ -101,9 +64,45 @@
 
 <div align="center">
 
+## 🔥 Commit Streak
+
+<img src="https://streak-stats.demolab.com?user=mahmoudabuawd&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudabuawd/mahmoudabuawd/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoudabuawd/mahmoudabuawd/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahmoudabuawd/mahmoudabuawd/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoudabuawd&theme=dracula&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudabuawd&theme=onedark&column=7&margin-w=8&margin-h=8" alt="Trophies">
+</a>
 
 </div>
 
